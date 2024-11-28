@@ -4,7 +4,6 @@
   "version": "0.0.0",
   "type": "module",
   "homepage": "https://szm19904.github.io/e-plantShopping111",
-
   "scripts": {
     "dev": "vite",
     "predeploy": "npm run build",
