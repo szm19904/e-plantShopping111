@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://szm19904.github.io/e-plantShoppingreact111",
+  "homepage": "https://szm19904.github.io/e-plantShopping111",
 
   "scripts": {
     "dev": "vite",
